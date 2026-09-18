@@ -241,4 +241,4 @@ This repository serves as the official landing page for IconWorkshop. The softwa
 **Get the most recent version of IconWorkshop today!**
 
 ---
-**Last updated:** 2026-09-17 23:58:43 UTC
+**Last updated:** 2026-09-18 04:30:07 UTC
